@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Angelapeters1601
+- 👋 Hi, I’m @Angelapeters
 - 👀 I’m interested in learning more on coding and meeting new people
-- 🌱 I’m currently learning react JS
+- 🌱 I’m seeking for frontend development jobs
 - 💞️ I’m looking to collaborate on building projects.
-- 📫 How to reach me ...Nwattaha@gmail.com
+- 📫 How to reach me ...nwattaha@gmail.com
 
 <!---
 Angelapeters1601/Angelapeters1601 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
